@@ -9,6 +9,7 @@ A sinatra skeleton the way I like it.  Here's what you get out of the box:
 * Thin
 * Foreman
 * Rspec
+* JQuery
 
 If this is how you like your Sinatra apps then feel free to fork and contribute.
 
