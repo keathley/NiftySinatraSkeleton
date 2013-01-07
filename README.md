@@ -19,6 +19,7 @@ If this is how you like your Sinatra apps then feel free to fork and contribute.
 Sprockets is used to load all of the scss and coffeescript so you don't have to.
 
 ## Installation
+    $ git clone https://github.com/spyc3r/NiftySinatraSkeleton.git
 
 # Start server with shotgun
     $ bundle exec shotgun -O config.ru
