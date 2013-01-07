@@ -28,4 +28,4 @@ Sprockets is used to load all of the scss and coffeescript so you don't have to.
     $ foreman start
 
 ## Contact
-If you have any questions or comments I'm @ChrisKeathley on Twitter.
+You can find me at spyc3r@gmail.com and @ChrisKeathley on Twitter.
